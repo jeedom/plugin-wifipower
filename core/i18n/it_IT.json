@@ -1,30 +1,42 @@
 {
-    "plugins/wifipower/desktop/php/wifipower.php": {
+    "plugin_info\/configuration.php": {
+        "Fréquence en secondes des interrogations": "Fréquence en secondes des interrogations"
+    },
+    "desktop\/js\/wifipower.js": {
+        "Historiser": "Historiser",
+        "Afficher": "Afficher",
+        "Inverser": "Inverser"
+    },
+    "desktop\/php\/wifipower.php": {
+        "401 - Accès non autorisé": "401 - Accès non autorisé",
         "Ajouter un Wifipower": "Aggiungi un dispositivo Wifipower",
         "Rechercher": "Cerca",
         "Mes wifipower": "I miei dispositivi Wifipower",
-        "Vous n'avez pas encore de wifipower, cliquez sur Ajouter un Wifipower pour commencer": "Non hai ancora alcun dispositivo Wifipower. Clicca su Aggiungi un dispositivo Wifipower per iniziare",
-        "Général": "Principale",
+        "Sauvegarder": "Salva",
+        "Supprimer": "Elimina",
+        "Configuration avancée": "Configuration avancée",
+        "Dupliquer": "Dupliquer",
+        "Equipement": "Equipement",
+        "Commandes": "Commandes",
         "Nom de l'équipement wifipower": "Nome del dispositivo Wifipower",
         "Objet parent": "Oggetto padre",
         "Aucun": "Nessuno",
         "Catégorie": "Categoria",
         "Activer": "Attivare",
         "Visible": "Visibile",
-        "Modèle": "Modello",
-        "IP": "IP",
+        "Address": "Address",
         "Nom d'utilisateur": "Nome utente",
         "Mot de passe": "Password",
-        "Port": "Porta",
-        "Commande": "Comando",
+        "Désactiver le pull (push uniquement)": "Désactiver le pull (push uniquement)",
+        "URL de push": "URL de push",
+        "Modèle": "Modello",
+        "Ajouter une commande": "Ajouter une commande",
         "Nom": "Nome",
         "Type": "Tipo",
         "Logical ID": "ID logico",
-        "Options": "Opzioni",
-        "Supprimer": "Elimina",
-        "Sauvegarder": "Salva"
+        "Options": "Opzioni"
     },
-    "plugins/wifipower/plugin_info/info.xml": {
+    "core\/class\/wifipower.class.php": {
         "Plugin pour la gestion des équipements wifipower": "Plugin per la gestione di dispositivi Wifipower",
         "Aucune": "Nessuno"
     }

@@ -1,30 +1,42 @@
 {
-    "plugins/wifipower/desktop/php/wifipower.php": {
+    "plugin_info\/configuration.php": {
+        "Fréquence en secondes des interrogations": "Fréquence en secondes des interrogations"
+    },
+    "desktop\/js\/wifipower.js": {
+        "Historiser": "Historiser",
+        "Afficher": "Afficher",
+        "Inverser": "Inverser"
+    },
+    "desktop\/php\/wifipower.php": {
+        "401 - Accès non autorisé": "401 - Accès non autorisé",
         "Ajouter un Wifipower": "Tambahkan Wifipower",
         "Rechercher": "Mencari",
         "Mes wifipower": "Wifipowerku",
-        "Vous n'avez pas encore de wifipower, cliquez sur Ajouter un Wifipower pour commencer": "Anda tidak memiliki wifipower, klik Tambah untuk memulai Wifipower",
-        "Général": "Umum",
+        "Sauvegarder": "Menyimpan",
+        "Supprimer": "Menghapus",
+        "Configuration avancée": "Configuration avancée",
+        "Dupliquer": "Dupliquer",
+        "Equipement": "Equipement",
+        "Commandes": "Commandes",
         "Nom de l'équipement wifipower": "Nama peralatan wifipower",
         "Objet parent": "Objek induk",
         "Aucun": "Tak ada",
         "Catégorie": "Kategori",
         "Activer": "Mengaktifkan",
         "Visible": "Terlihat",
-        "Modèle": "Model",
-        "IP": "IP",
+        "Address": "Address",
         "Nom d'utilisateur": "Nama pemakai",
         "Mot de passe": "Password",
-        "Port": "Port",
-        "Commande": "Pesanan",
+        "Désactiver le pull (push uniquement)": "Désactiver le pull (push uniquement)",
+        "URL de push": "URL de push",
+        "Modèle": "Model",
+        "Ajouter une commande": "Ajouter une commande",
         "Nom": "Nama",
         "Type": "Jenis",
         "Logical ID": "Logical ID",
-        "Options": "Pilihan",
-        "Supprimer": "Menghapus",
-        "Sauvegarder": "Menyimpan"
+        "Options": "Pilihan"
     },
-    "plugins/wifipower/plugin_info/info.xml": {
+    "core\/class\/wifipower.class.php": {
         "Plugin pour la gestion des équipements wifipower": "Plugin untuk mengelola peralatan wifipower",
         "Aucune": "Tak ada"
     }

@@ -1,30 +1,42 @@
 {
-    "plugins/wifipower/desktop/php/wifipower.php": {
+    "plugin_info\/configuration.php": {
+        "Fréquence en secondes des interrogations": "Fréquence en secondes des interrogations"
+    },
+    "desktop\/js\/wifipower.js": {
+        "Historiser": "Historiser",
+        "Afficher": "Afficher",
+        "Inverser": "Inverser"
+    },
+    "desktop\/php\/wifipower.php": {
+        "401 - Accès non autorisé": "401 - Accès non autorisé",
         "Ajouter un Wifipower": "Adicionar Wifipower",
         "Rechercher": "Pesquisar",
         "Mes wifipower": "minha wifipower",
-        "Vous n'avez pas encore de wifipower, cliquez sur Ajouter un Wifipower pour commencer": "Você não tem wifipower, clique em Adicionar para iniciar Wifipower",
-        "Général": "Geral",
+        "Sauvegarder": "Salvar",
+        "Supprimer": "remover",
+        "Configuration avancée": "Configuration avancée",
+        "Dupliquer": "Dupliquer",
+        "Equipement": "Equipement",
+        "Commandes": "Commandes",
         "Nom de l'équipement wifipower": "Nome equipamentos wifipower",
         "Objet parent": "objeto pai",
         "Aucun": "Nemhum",
         "Catégorie": "categoria",
         "Activer": "Ativar",
         "Visible": "Visível",
-        "Modèle": "modelo",
-        "IP": "IP",
+        "Address": "Address",
         "Nom d'utilisateur": "Nome de Usuário",
         "Mot de passe": "senha",
-        "Port": "porta",
-        "Commande": "ordem",
+        "Désactiver le pull (push uniquement)": "Désactiver le pull (push uniquement)",
+        "URL de push": "URL de push",
+        "Modèle": "modelo",
+        "Ajouter une commande": "Ajouter une commande",
         "Nom": "Nome",
         "Type": "tipo",
         "Logical ID": "ID lógico",
-        "Options": "opções",
-        "Supprimer": "remover",
-        "Sauvegarder": "Salvar"
+        "Options": "opções"
     },
-    "plugins/wifipower/plugin_info/info.xml": {
+    "core\/class\/wifipower.class.php": {
         "Plugin pour la gestion des équipements wifipower": "Plugin para o gerenciamento de equipamentos wifipower",
         "Aucune": "Nenhum"
     }
