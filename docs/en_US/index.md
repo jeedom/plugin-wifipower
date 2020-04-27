@@ -1,4 +1,4 @@
-Configuration
+Setup 
 =============
 
 ![wifipower icon](../images/wifipower_icon.png)

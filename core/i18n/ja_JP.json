@@ -1,43 +1,50 @@
 {
-    "plugin_info\/configuration.php": {
-        "Fréquence en secondes des interrogations": "Fréquence en secondes des interrogations"
+    "plugins\/wifipower\/plugin_info\/configuration.php": {
+        "Fréquence en secondes des interrogations": ""
     },
-    "desktop\/js\/wifipower.js": {
-        "Historiser": "Historiser",
-        "Afficher": "Afficher",
-        "Inverser": "Inverser"
-    },
-    "desktop\/php\/wifipower.php": {
-        "401 - Accès non autorisé": "401 - Accès non autorisé",
-        "Ajouter un Wifipower": "Wifipowerを追加",
-        "Rechercher": "検索する",
-        "Mes wifipower": "私wifipower",
+    "plugins\/wifipower\/desktop\/php\/wifipower.php": {
+        "401 - Accès non autorisé": "401-不正アクセス",
+        "Ajouter un Wifipower": "",
+        "Rechercher": "検索",
+        "Mes wifipower": "",
         "Sauvegarder": "セーブ",
         "Supprimer": "取り除きます",
-        "Configuration avancée": "Configuration avancée",
-        "Dupliquer": "Dupliquer",
-        "Equipement": "Equipement",
-        "Commandes": "Commandes",
-        "Nom de l'équipement wifipower": "wifipower機器に名前を付けます",
+        "Configuration avancée": "高度な構成",
+        "Dupliquer": "重複",
+        "Equipement": "設備",
+        "Commandes": "コマンド",
+        "Nom de l'équipement wifipower": "",
         "Objet parent": "親オブジェクト",
         "Aucun": "何でもありません",
         "Catégorie": "カテゴリ",
-        "Activer": "アクティブにし",
+        "Activer": "アクティブ",
         "Visible": "目に見えます",
-        "Address": "Address",
+        "Address": "",
         "Nom d'utilisateur": "ユーザー名",
         "Mot de passe": "パスワード",
-        "Désactiver le pull (push uniquement)": "Désactiver le pull (push uniquement)",
-        "URL de push": "URL de push",
+        "Désactiver le pull (push uniquement)": "",
+        "URL de push": "",
         "Modèle": "モデル",
-        "Ajouter une commande": "Ajouter une commande",
+        "Ajouter une commande": "コマンドの追加",
         "Nom": "表題",
         "Type": "タイプ",
         "Logical ID": "論理ID",
         "Options": "オプション"
     },
-    "core\/class\/wifipower.class.php": {
-        "Plugin pour la gestion des équipements wifipower": "機器wifipowerを管理するためのプラグイン",
-        "Aucune": "何でもありません"
+    "plugins\/wifipower\/desktop\/js\/wifipower.js": {
+        "Historiser": "Historicize",
+        "Afficher": "ディスプレイ",
+        "Inverser": "逆"
+    },
+    "plugins\/wifipower\/core\/class\/wifipower.class.php": {
+        "Veuillez vérifier la configuration": "",
+        "Tâche cron introuvable": "",
+        "Le champs IP ne peut être vide": "",
+        "Arrêt": "ストップ",
+        "Eco": "",
+        "Hors Gel": "",
+        "Confort": "",
+        "Confort-1": "",
+        "Confort-2": ""
     }
 }

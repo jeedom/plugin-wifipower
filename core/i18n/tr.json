@@ -1,43 +1,50 @@
 {
-    "plugin_info\/configuration.php": {
-        "Fréquence en secondes des interrogations": "Fréquence en secondes des interrogations"
+    "plugins\/wifipower\/plugin_info\/configuration.php": {
+        "Fréquence en secondes des interrogations": ""
     },
-    "desktop\/js\/wifipower.js": {
-        "Historiser": "Historiser",
-        "Afficher": "Afficher",
-        "Inverser": "Inverser"
-    },
-    "desktop\/php\/wifipower.php": {
-        "401 - Accès non autorisé": "401 - Accès non autorisé",
-        "Ajouter un Wifipower": "Wifipower ekleyin",
+    "plugins\/wifipower\/desktop\/php\/wifipower.php": {
+        "401 - Accès non autorisé": "401 - Yetkisiz erişim",
+        "Ajouter un Wifipower": "",
         "Rechercher": "Arayın",
-        "Mes wifipower": "wifipowerlerim",
+        "Mes wifipower": "",
         "Sauvegarder": "Kaydet",
         "Supprimer": "Sil",
-        "Configuration avancée": "Configuration avancée",
-        "Dupliquer": "Dupliquer",
-        "Equipement": "Equipement",
-        "Commandes": "Commandes",
-        "Nom de l'équipement wifipower": "Wifipower cihazının ismi",
+        "Configuration avancée": "Gelişmiş ayarlar",
+        "Dupliquer": "Kopyala",
+        "Equipement": "Cihaz",
+        "Commandes": "Komutalar",
+        "Nom de l'équipement wifipower": "",
         "Objet parent": "Üst nesne",
         "Aucun": "Hiçbir",
         "Catégorie": "Kategori",
-        "Activer": "Etkinleştirmek",
+        "Activer": "Etkinleştir",
         "Visible": "Görülebilir",
-        "Address": "Address",
+        "Address": "",
         "Nom d'utilisateur": "Kullanıcı adı ",
         "Mot de passe": "Şifre",
-        "Désactiver le pull (push uniquement)": "Désactiver le pull (push uniquement)",
-        "URL de push": "URL de push",
+        "Désactiver le pull (push uniquement)": "",
+        "URL de push": "",
         "Modèle": "Model",
-        "Ajouter une commande": "Ajouter une commande",
+        "Ajouter une commande": "Komuta ekle",
         "Nom": "İsim",
-        "Type": "Ceşit",
-        "Logical ID": "mantıksal ID",
+        "Type": "Çeşit",
+        "Logical ID": "Mantıksal ID",
         "Options": "Opsiyonlar"
     },
-    "core\/class\/wifipower.class.php": {
-        "Plugin pour la gestion des équipements wifipower": "Wifipower cihazların yönetimi için eklenti",
-        "Aucune": "Hiçbir"
+    "plugins\/wifipower\/desktop\/js\/wifipower.js": {
+        "Historiser": "Tarihe göre sırala",
+        "Afficher": "Göster",
+        "Inverser": "Ters çevir"
+    },
+    "plugins\/wifipower\/core\/class\/wifipower.class.php": {
+        "Veuillez vérifier la configuration": "",
+        "Tâche cron introuvable": "",
+        "Le champs IP ne peut être vide": "",
+        "Arrêt": "",
+        "Eco": "",
+        "Hors Gel": "",
+        "Confort": "",
+        "Confort-1": "",
+        "Confort-2": ""
     }
 }

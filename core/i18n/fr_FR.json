@@ -1,13 +1,8 @@
 {
-    "plugin_info\/configuration.php": {
+    "plugins\/wifipower\/plugin_info\/configuration.php": {
         "Fréquence en secondes des interrogations": "Fréquence en secondes des interrogations"
     },
-    "desktop\/js\/wifipower.js": {
-        "Historiser": "Historiser",
-        "Afficher": "Afficher",
-        "Inverser": "Inverser"
-    },
-    "desktop\/php\/wifipower.php": {
+    "plugins\/wifipower\/desktop\/php\/wifipower.php": {
         "401 - Accès non autorisé": "401 - Accès non autorisé",
         "Ajouter un Wifipower": "Ajouter un Wifipower",
         "Rechercher": "Rechercher",
@@ -36,7 +31,12 @@
         "Logical ID": "Logical ID",
         "Options": "Options"
     },
-    "core\/class\/wifipower.class.php": {
+    "plugins\/wifipower\/desktop\/js\/wifipower.js": {
+        "Historiser": "Historiser",
+        "Afficher": "Afficher",
+        "Inverser": "Inverser"
+    },
+    "plugins\/wifipower\/core\/class\/wifipower.class.php": {
         "Veuillez vérifier la configuration": "Veuillez vérifier la configuration",
         "Tâche cron introuvable": "Tâche cron introuvable",
         "Le champs IP ne peut être vide": "Le champs IP ne peut être vide",

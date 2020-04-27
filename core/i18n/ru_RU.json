@@ -1,43 +1,50 @@
 {
-    "plugin_info\/configuration.php": {
-        "Fréquence en secondes des interrogations": "Fréquence en secondes des interrogations"
+    "plugins\/wifipower\/plugin_info\/configuration.php": {
+        "Fréquence en secondes des interrogations": ""
     },
-    "desktop\/js\/wifipower.js": {
-        "Historiser": "Historiser",
-        "Afficher": "Afficher",
-        "Inverser": "Inverser"
-    },
-    "desktop\/php\/wifipower.php": {
-        "401 - Accès non autorisé": "401 - Accès non autorisé",
-        "Ajouter un Wifipower": "Добавить Wifipower",
-        "Rechercher": "Искать",
-        "Mes wifipower": "Мой wifipower",
+    "plugins\/wifipower\/desktop\/php\/wifipower.php": {
+        "401 - Accès non autorisé": "401 - Несанкционированный доступ",
+        "Ajouter un Wifipower": "",
+        "Rechercher": "поиск",
+        "Mes wifipower": "",
         "Sauvegarder": "Сохранить",
-        "Supprimer": "Удалить",
-        "Configuration avancée": "Configuration avancée",
-        "Dupliquer": "Dupliquer",
-        "Equipement": "Equipement",
-        "Commandes": "Commandes",
-        "Nom de l'équipement wifipower": "Название оборудования Wifipower",
+        "Supprimer": "удаление",
+        "Configuration avancée": "Расширенные настройки",
+        "Dupliquer": "дубликат",
+        "Equipement": "Оборудование",
+        "Commandes": "Команды",
+        "Nom de l'équipement wifipower": "",
         "Objet parent": "Родительский объект",
         "Aucun": "Нет",
-        "Catégorie": "Категория",
-        "Activer": "Активировать",
+        "Catégorie": "категория",
+        "Activer": "активировать",
         "Visible": "Видимый",
-        "Address": "Address",
+        "Address": "",
         "Nom d'utilisateur": "Имя пользователя",
         "Mot de passe": "Пароль",
-        "Désactiver le pull (push uniquement)": "Désactiver le pull (push uniquement)",
-        "URL de push": "URL de push",
+        "Désactiver le pull (push uniquement)": "",
+        "URL de push": "",
         "Modèle": "Модель",
-        "Ajouter une commande": "Ajouter une commande",
+        "Ajouter une commande": "Добавить команду",
         "Nom": "Имя",
         "Type": "Тип",
         "Logical ID": "Локальный идентификатор",
         "Options": "Опции"
     },
-    "core\/class\/wifipower.class.php": {
-        "Plugin pour la gestion des équipements wifipower": "Плагин для управления wifipower оборудованием",
-        "Aucune": "Нет"
+    "plugins\/wifipower\/desktop\/js\/wifipower.js": {
+        "Historiser": "История",
+        "Afficher": "дисплей",
+        "Inverser": "Обратный"
+    },
+    "plugins\/wifipower\/core\/class\/wifipower.class.php": {
+        "Veuillez vérifier la configuration": "",
+        "Tâche cron introuvable": "",
+        "Le champs IP ne peut être vide": "",
+        "Arrêt": "остановка",
+        "Eco": "",
+        "Hors Gel": "",
+        "Confort": "",
+        "Confort-1": "",
+        "Confort-2": ""
     }
 }

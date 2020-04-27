@@ -1,43 +1,50 @@
 {
-    "plugin_info\/configuration.php": {
+    "plugins\/wifipower\/plugin_info\/configuration.php": {
         "Fréquence en secondes des interrogations": "Häufigkeit in Sekunden der Befragung"
     },
-    "desktop\/js\/wifipower.js": {
-        "Historiser": "historisieren",
-        "Afficher": "Anzeige",
-        "Inverser": "umkehren"
-    },
-    "desktop\/php\/wifipower.php": {
+    "plugins\/wifipower\/desktop\/php\/wifipower.php": {
         "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
-        "Ajouter un Wifipower": "Wifipower hinzufügen",
+        "Ajouter un Wifipower": "",
         "Rechercher": "Suchen nach",
-        "Mes wifipower": "Mein WifiPower",
+        "Mes wifipower": "",
         "Sauvegarder": "Speichern",
         "Supprimer": "Löschen",
         "Configuration avancée": "Erweiterte Konfiguration",
         "Dupliquer": "Duplikat",
-        "Equipement": "Ausrüstung",
+        "Equipement": "Gerät",
         "Commandes": "Befehle",
-        "Nom de l'équipement wifipower": "WifiPower Gerätename",
-        "Objet parent": "Eltern-Objekt",
+        "Nom de l'équipement wifipower": "",
+        "Objet parent": "Übergeordnetes Objekt",
         "Aucun": "Ohne",
         "Catégorie": "Kategorie",
-        "Activer": "aktivieren",
+        "Activer": "Aktivieren",
         "Visible": "Sichtbar",
-        "Address": "Adresse",
+        "Address": "",
         "Nom d'utilisateur": "Benutzername",
         "Mot de passe": "Passwort",
-        "Désactiver le pull (push uniquement)": "Zug deaktivieren (nur drücken)",
-        "URL de push": "URL drücken",
-        "Modèle": "Model",
-        "Ajouter une commande": "Bestellung hinzufügen",
+        "Désactiver le pull (push uniquement)": "",
+        "URL de push": "",
+        "Modèle": "Modell",
+        "Ajouter une commande": "Kommando hinzufügen",
         "Nom": "Name",
         "Type": "Typ",
         "Logical ID": "Logische ID",
         "Options": "Optionen"
     },
-    "core\/class\/wifipower.class.php": {
-        "Plugin pour la gestion des équipements wifipower": "Plugin zur Verwaltung von wifipower Geräte",
-        "Aucune": "Ohne"
+    "plugins\/wifipower\/desktop\/js\/wifipower.js": {
+        "Historiser": "Chronik",
+        "Afficher": "Anzeige",
+        "Inverser": "Umgekehrt"
+    },
+    "plugins\/wifipower\/core\/class\/wifipower.class.php": {
+        "Veuillez vérifier la configuration": "Bitte überprüfen Sie die Konfiguration",
+        "Tâche cron introuvable": "Cron-Aufgabe nicht gefunden",
+        "Le champs IP ne peut être vide": "",
+        "Arrêt": "Anschlag",
+        "Eco": "Eco",
+        "Hors Gel": "",
+        "Confort": "Komfort",
+        "Confort-1": "",
+        "Confort-2": ""
     }
 }

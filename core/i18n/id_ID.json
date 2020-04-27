@@ -1,43 +1,50 @@
 {
-    "plugin_info\/configuration.php": {
-        "Fréquence en secondes des interrogations": "Fréquence en secondes des interrogations"
+    "plugins\/wifipower\/plugin_info\/configuration.php": {
+        "Fréquence en secondes des interrogations": ""
     },
-    "desktop\/js\/wifipower.js": {
-        "Historiser": "Historiser",
-        "Afficher": "Afficher",
-        "Inverser": "Inverser"
-    },
-    "desktop\/php\/wifipower.php": {
-        "401 - Accès non autorisé": "401 - Accès non autorisé",
-        "Ajouter un Wifipower": "Tambahkan Wifipower",
-        "Rechercher": "Mencari",
-        "Mes wifipower": "Wifipowerku",
+    "plugins\/wifipower\/desktop\/php\/wifipower.php": {
+        "401 - Accès non autorisé": "401 - Akses tidak sah",
+        "Ajouter un Wifipower": "",
+        "Rechercher": "Pencarian",
+        "Mes wifipower": "",
         "Sauvegarder": "Menyimpan",
         "Supprimer": "Menghapus",
-        "Configuration avancée": "Configuration avancée",
-        "Dupliquer": "Dupliquer",
-        "Equipement": "Equipement",
-        "Commandes": "Commandes",
-        "Nom de l'équipement wifipower": "Nama peralatan wifipower",
+        "Configuration avancée": "Konfigurasi lanjutan",
+        "Dupliquer": "Duplikat",
+        "Equipement": "Peralatan",
+        "Commandes": "Perintah",
+        "Nom de l'équipement wifipower": "",
         "Objet parent": "Objek induk",
         "Aucun": "Tak ada",
         "Catégorie": "Kategori",
         "Activer": "Mengaktifkan",
         "Visible": "Terlihat",
-        "Address": "Address",
+        "Address": "",
         "Nom d'utilisateur": "Nama pemakai",
         "Mot de passe": "Password",
-        "Désactiver le pull (push uniquement)": "Désactiver le pull (push uniquement)",
-        "URL de push": "URL de push",
+        "Désactiver le pull (push uniquement)": "",
+        "URL de push": "",
         "Modèle": "Model",
-        "Ajouter une commande": "Ajouter une commande",
+        "Ajouter une commande": "Tambahan pesanan",
         "Nom": "Nama",
         "Type": "Jenis",
-        "Logical ID": "Logical ID",
+        "Logical ID": "",
         "Options": "Pilihan"
     },
-    "core\/class\/wifipower.class.php": {
-        "Plugin pour la gestion des équipements wifipower": "Plugin untuk mengelola peralatan wifipower",
-        "Aucune": "Tak ada"
+    "plugins\/wifipower\/desktop\/js\/wifipower.js": {
+        "Historiser": "Historicize",
+        "Afficher": "Memenitikan",
+        "Inverser": "Membalikkan"
+    },
+    "plugins\/wifipower\/core\/class\/wifipower.class.php": {
+        "Veuillez vérifier la configuration": "",
+        "Tâche cron introuvable": "",
+        "Le champs IP ne peut être vide": "",
+        "Arrêt": "",
+        "Eco": "",
+        "Hors Gel": "",
+        "Confort": "",
+        "Confort-1": "",
+        "Confort-2": ""
     }
 }
