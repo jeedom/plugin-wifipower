@@ -4,6 +4,9 @@
         "Support de PHP 7.3": "Soporte para php 7.3"
     },
     "index.md": {
-        "Configuration": "Configuración"
+        " Configuration": " Configuración",
+        "Configuration ": "Configuración ",
+        "[Configuration": "[Configuración",
+        "Configuration]": "Configuración]"
     }
 }
