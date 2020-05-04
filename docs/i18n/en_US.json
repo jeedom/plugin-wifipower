@@ -4,7 +4,8 @@
         "Support de PHP 7.3": "Support for php 7.3"
     },
     "index.md": {
-        " Configuration": " Setup",
+        " Configuration.": " Setup.",
+        " Configuration?": " Setup?",
         "Configuration ": "Setup ",
         "[Configuration": "[Setup",
         "Configuration]": "Setup]"
