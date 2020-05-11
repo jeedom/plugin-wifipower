@@ -8,6 +8,8 @@
         " Configuration?": " Configuração?",
         "Configuration ": "Configuração ",
         "[Configuration": "[Configuração",
-        "Configuration]": "Configuração]"
+        "Configuration]": "Configuração]",
+        "*Configuration": "*Configuração",
+        "Configuration*": "Configuração*"
     }
 }

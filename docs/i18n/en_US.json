@@ -8,6 +8,8 @@
         " Configuration?": " Setup?",
         "Configuration ": "Setup ",
         "[Configuration": "[Setup",
-        "Configuration]": "Setup]"
+        "Configuration]": "Setup]",
+        "*Configuration": "*Setup",
+        "Configuration*": "Setup*"
     }
 }
