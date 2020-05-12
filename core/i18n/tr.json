@@ -1,31 +1,50 @@
 {
-    "plugins/wifipower/desktop/php/wifipower.php": {
-        "Ajouter un Wifipower": "Wifipower ekleyin",
+    "plugins\/wifipower\/plugin_info\/configuration.php": {
+        "Fréquence en secondes des interrogations": ""
+    },
+    "plugins\/wifipower\/desktop\/php\/wifipower.php": {
+        "401 - Accès non autorisé": "401 - Yetkisiz erişim",
+        "Ajouter un Wifipower": "",
         "Rechercher": "Arayın",
-        "Mes wifipower": "wifipowerlerim",
-        "Vous n'avez pas encore de wifipower, cliquez sur Ajouter un Wifipower pour commencer": "Wifipowerunuz henüz yok, başlamak için wifipower ekleyine tıklayın",
-        "Général": "Genel",
-        "Nom de l'équipement wifipower": "Wifipower cihazının ismi",
+        "Mes wifipower": "",
+        "Sauvegarder": "Kaydet",
+        "Supprimer": "Sil",
+        "Configuration avancée": "Gelişmiş ayarlar",
+        "Dupliquer": "Kopyala",
+        "Equipement": "Cihaz",
+        "Commandes": "Komutalar",
+        "Nom de l'équipement wifipower": "",
         "Objet parent": "Üst nesne",
         "Aucun": "Hiçbir",
         "Catégorie": "Kategori",
-        "Activer": "Etkinleştirmek",
+        "Activer": "Etkinleştir",
         "Visible": "Görülebilir",
-        "Modèle": "Model",
-        "IP": "IP",
-        "Nom d'utilisateur": "Kullanıcı adı ",
+        "Address": "",
+        "Nom d'utilisateur": "Kullanıcı adı",
         "Mot de passe": "Şifre",
-        "Port": "Port",
-        "Commande": "Komuta",
+        "Désactiver le pull (push uniquement)": "",
+        "URL de push": "",
+        "Modèle": "Model",
+        "Ajouter une commande": "Komuta ekle",
         "Nom": "İsim",
-        "Type": "Ceşit",
-        "Logical ID": "mantıksal ID",
-        "Options": "Opsiyonlar",
-        "Supprimer": "Sil",
-        "Sauvegarder": "Kaydet"
+        "Type": "Çeşit",
+        "Logical ID": "Mantıksal ID",
+        "Options": "Opsiyonlar"
     },
-    "plugins/wifipower/plugin_info/info.xml": {
-        "Plugin pour la gestion des équipements wifipower": "Wifipower cihazların yönetimi için eklenti",
-        "Aucune": "Hiçbir"
+    "plugins\/wifipower\/desktop\/js\/wifipower.js": {
+        "Historiser": "Tarihe göre sırala",
+        "Afficher": "Göster",
+        "Inverser": "Ters çevir"
+    },
+    "plugins\/wifipower\/core\/class\/wifipower.class.php": {
+        "Veuillez vérifier la configuration": "",
+        "Tâche cron introuvable": "",
+        "Le champs IP ne peut être vide": "",
+        "Arrêt": "",
+        "Eco": "",
+        "Hors Gel": "",
+        "Confort": "",
+        "Confort-1": "",
+        "Confort-2": ""
     }
 }

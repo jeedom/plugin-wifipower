@@ -1,31 +1,50 @@
 {
-    "plugins/wifipower/desktop/php/wifipower.php": {
-        "Ajouter un Wifipower": "Tambahkan Wifipower",
-        "Rechercher": "Mencari",
-        "Mes wifipower": "Wifipowerku",
-        "Vous n'avez pas encore de wifipower, cliquez sur Ajouter un Wifipower pour commencer": "Anda tidak memiliki wifipower, klik Tambah untuk memulai Wifipower",
-        "Général": "Umum",
-        "Nom de l'équipement wifipower": "Nama peralatan wifipower",
+    "plugins\/wifipower\/plugin_info\/configuration.php": {
+        "Fréquence en secondes des interrogations": ""
+    },
+    "plugins\/wifipower\/desktop\/php\/wifipower.php": {
+        "401 - Accès non autorisé": "401 - Akses tidak sah",
+        "Ajouter un Wifipower": "",
+        "Rechercher": "Pencarian",
+        "Mes wifipower": "",
+        "Sauvegarder": "Menyimpan",
+        "Supprimer": "Menghapus",
+        "Configuration avancée": "Konfigurasi lanjutan",
+        "Dupliquer": "Duplikat",
+        "Equipement": "Peralatan",
+        "Commandes": "Perintah",
+        "Nom de l'équipement wifipower": "",
         "Objet parent": "Objek induk",
         "Aucun": "Tak ada",
         "Catégorie": "Kategori",
         "Activer": "Mengaktifkan",
         "Visible": "Terlihat",
-        "Modèle": "Model",
-        "IP": "IP",
+        "Address": "",
         "Nom d'utilisateur": "Nama pemakai",
         "Mot de passe": "Password",
-        "Port": "Port",
-        "Commande": "Pesanan",
+        "Désactiver le pull (push uniquement)": "",
+        "URL de push": "",
+        "Modèle": "Model",
+        "Ajouter une commande": "Tambahan pesanan",
         "Nom": "Nama",
         "Type": "Jenis",
-        "Logical ID": "Logical ID",
-        "Options": "Pilihan",
-        "Supprimer": "Menghapus",
-        "Sauvegarder": "Menyimpan"
+        "Logical ID": "",
+        "Options": "Pilihan"
     },
-    "plugins/wifipower/plugin_info/info.xml": {
-        "Plugin pour la gestion des équipements wifipower": "Plugin untuk mengelola peralatan wifipower",
-        "Aucune": "Tak ada"
+    "plugins\/wifipower\/desktop\/js\/wifipower.js": {
+        "Historiser": "Historicize",
+        "Afficher": "Memenitikan",
+        "Inverser": "Membalikkan"
+    },
+    "plugins\/wifipower\/core\/class\/wifipower.class.php": {
+        "Veuillez vérifier la configuration": "",
+        "Tâche cron introuvable": "",
+        "Le champs IP ne peut être vide": "",
+        "Arrêt": "",
+        "Eco": "",
+        "Hors Gel": "",
+        "Confort": "",
+        "Confort-1": "",
+        "Confort-2": ""
     }
 }

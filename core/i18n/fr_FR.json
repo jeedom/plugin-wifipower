@@ -1,31 +1,50 @@
 {
+    "plugins\/wifipower\/plugin_info\/configuration.php": {
+        "Fréquence en secondes des interrogations": "Fréquence en secondes des interrogations"
+    },
     "plugins\/wifipower\/desktop\/php\/wifipower.php": {
+        "401 - Accès non autorisé": "401 - Accès non autorisé",
         "Ajouter un Wifipower": "Ajouter un Wifipower",
         "Rechercher": "Rechercher",
         "Mes wifipower": "Mes wifipower",
-        "Vous n'avez pas encore de wifipower, cliquez sur Ajouter un Wifipower pour commencer": "Vous n'avez pas encore de wifipower, cliquez sur Ajouter un Wifipower pour commencer",
-        "Général": "Général",
+        "Sauvegarder": "Sauvegarder",
+        "Supprimer": "Supprimer",
+        "Configuration avancée": "Configuration avancée",
+        "Dupliquer": "Dupliquer",
+        "Equipement": "Equipement",
+        "Commandes": "Commandes",
         "Nom de l'équipement wifipower": "Nom de l'équipement wifipower",
         "Objet parent": "Objet parent",
         "Aucun": "Aucun",
         "Catégorie": "Catégorie",
         "Activer": "Activer",
         "Visible": "Visible",
-        "Modèle": "Modèle",
-        "IP": "IP",
+        "Address": "Address",
         "Nom d'utilisateur": "Nom d'utilisateur",
         "Mot de passe": "Mot de passe",
-        "Port": "Port",
-        "Commande": "Commande",
+        "Désactiver le pull (push uniquement)": "Désactiver le pull (push uniquement)",
+        "URL de push": "URL de push",
+        "Modèle": "Modèle",
+        "Ajouter une commande": "Ajouter une commande",
         "Nom": "Nom",
         "Type": "Type",
         "Logical ID": "Logical ID",
-        "Options": "Options",
-        "Supprimer": "Supprimer",
-        "Sauvegarder": "Sauvegarder"
+        "Options": "Options"
     },
-    "plugins\/wifipower\/plugin_info\/info.xml": {
-        "Plugin pour la gestion des équipements wifipower": "Plugin pour la gestion des équipements wifipower",
-        "Aucune": "Aucune"
+    "plugins\/wifipower\/desktop\/js\/wifipower.js": {
+        "Historiser": "Historiser",
+        "Afficher": "Afficher",
+        "Inverser": "Inverser"
+    },
+    "plugins\/wifipower\/core\/class\/wifipower.class.php": {
+        "Veuillez vérifier la configuration": "Veuillez vérifier la configuration",
+        "Tâche cron introuvable": "Tâche cron introuvable",
+        "Le champs IP ne peut être vide": "Le champs IP ne peut être vide",
+        "Arrêt": "Arrêt",
+        "Eco": "Eco",
+        "Hors Gel": "Hors Gel",
+        "Confort": "Confort",
+        "Confort-1": "Confort-1",
+        "Confort-2": "Confort-2"
     }
 }

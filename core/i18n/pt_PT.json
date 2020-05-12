@@ -1,31 +1,50 @@
 {
-    "plugins/wifipower/desktop/php/wifipower.php": {
-        "Ajouter un Wifipower": "Adicionar Wifipower",
-        "Rechercher": "Pesquisar",
-        "Mes wifipower": "minha wifipower",
-        "Vous n'avez pas encore de wifipower, cliquez sur Ajouter un Wifipower pour commencer": "Você não tem wifipower, clique em Adicionar para iniciar Wifipower",
-        "Général": "Geral",
-        "Nom de l'équipement wifipower": "Nome equipamentos wifipower",
-        "Objet parent": "objeto pai",
-        "Aucun": "Nemhum",
-        "Catégorie": "categoria",
-        "Activer": "Ativar",
-        "Visible": "Visível",
-        "Modèle": "modelo",
-        "IP": "IP",
-        "Nom d'utilisateur": "Nome de Usuário",
-        "Mot de passe": "senha",
-        "Port": "porta",
-        "Commande": "ordem",
-        "Nom": "Nome",
-        "Type": "tipo",
-        "Logical ID": "ID lógico",
-        "Options": "opções",
-        "Supprimer": "remover",
-        "Sauvegarder": "Salvar"
+    "plugins\/wifipower\/plugin_info\/configuration.php": {
+        "Fréquence en secondes des interrogations": "Frequência em segundos de interrogatórios"
     },
-    "plugins/wifipower/plugin_info/info.xml": {
-        "Plugin pour la gestion des équipements wifipower": "Plugin para o gerenciamento de equipamentos wifipower",
-        "Aucune": "Nenhum"
+    "plugins\/wifipower\/desktop\/php\/wifipower.php": {
+        "401 - Accès non autorisé": "401 - Acesso não autorizado",
+        "Ajouter un Wifipower": "Adicione um Wifipower",
+        "Rechercher": "Pesquisa",
+        "Mes wifipower": "Minha esposa",
+        "Sauvegarder": "Salvar",
+        "Supprimer": "Remover",
+        "Configuration avancée": "Configuração avançada",
+        "Dupliquer": "Duplicar",
+        "Equipement": "Equipamento",
+        "Commandes": "Comandos",
+        "Nom de l'équipement wifipower": "Nome do equipamento Wifipower",
+        "Objet parent": "Objeto pai",
+        "Aucun": "Nemhum",
+        "Catégorie": "Categoria",
+        "Activer": "Ativar",
+        "Visible": "Visivél",
+        "Address": "Morada",
+        "Nom d'utilisateur": "Nome de Usuário",
+        "Mot de passe": "Senha",
+        "Désactiver le pull (push uniquement)": "Desativar pull (somente push)",
+        "URL de push": "URL de envio",
+        "Modèle": "Modelo",
+        "Ajouter une commande": "Adicionar comando",
+        "Nom": "Nome",
+        "Type": "Tipo",
+        "Logical ID": "ID lógico",
+        "Options": "Opções"
+    },
+    "plugins\/wifipower\/desktop\/js\/wifipower.js": {
+        "Historiser": "Historicizar",
+        "Afficher": "Display",
+        "Inverser": "Inverter"
+    },
+    "plugins\/wifipower\/core\/class\/wifipower.class.php": {
+        "Veuillez vérifier la configuration": "Por favor, verifique a configuração",
+        "Tâche cron introuvable": "Tarefa Cron não encontrada",
+        "Le champs IP ne peut être vide": "O campo IP não pode estar vazio",
+        "Arrêt": "Parar",
+        "Eco": "Eco",
+        "Hors Gel": "Excluindo Gel",
+        "Confort": "Conforto",
+        "Confort-1": "Comfort-1",
+        "Confort-2": "Comfort-2"
     }
 }
