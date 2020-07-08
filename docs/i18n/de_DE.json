@@ -7,10 +7,10 @@
         " IMPORTANT.": " Wichtig.",
         " IMPORTANT?": " Wichtig?",
         "IMPORTANT ": "Wichtig ",
-        "[IMPORTANT": "[Wichtig",
-        "IMPORTANT]": "Wichtig]",
-        "*IMPORTANT": "*Wichtig",
-        "IMPORTANT*": "Wichtig*"
+        " IMPORTANT]": " Wichtig]",
+        "[IMPORTANT]": "[Wichtig]",
+        "*IMPORTANT*": "*Wichtig*",
+        " IMPORTANT*": " Wichtig*"
     },
     "index.md": {
         "Plugin Wifipower": "Wifipower Plugin"
