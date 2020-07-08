@@ -267,7 +267,7 @@ class wifipower extends eqLogic {
 				$state = ($state ===  '') ? 0 : $state;
 				$this->checkAndUpdateCmd('DI' . $relai,$state);
 			}
-			foreach ($wifipower['ANAIN']['in'] as $relai => $state) {
+			foreach ($wifipower['ANAIN']['in'][1] as $relai => $state) {
 				$state = ($state ===  '') ? 0 : $state;
 				$this->checkAndUpdateCmd('AI' . $relai,$state);
 			}
