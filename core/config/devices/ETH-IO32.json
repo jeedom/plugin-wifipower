@@ -322,28 +322,28 @@
                 "type": "info",
                 "subtype": "numeric",
                 "eventOnly": 1,
-                "logicalId": "AIA0"
+                "logicalId": "AIAV0"
             },
             {
                 "name": "Analogique 2",
                 "type": "info",
                 "subtype": "numeric",
                 "eventOnly": 1,
-                "logicalId": "AIA1"
+                "logicalId": "AIAV1"
             },
             {
                 "name": "Analogique 3",
                 "type": "info",
                 "subtype": "numeric",
                 "eventOnly": 1,
-                "logicalId": "AIA2"
+                "logicalId": "AIAV2"
             },
             {
                 "name": "Analogique 4",
                 "type": "info",
                 "subtype": "numeric",
                 "eventOnly": 1,
-                "logicalId": "AIA3"
+                "logicalId": "AIAV3"
             }
         ]
     }
