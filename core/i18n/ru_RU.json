@@ -46,5 +46,8 @@
         "Confort": "",
         "Confort-1": "",
         "Confort-2": ""
+    },
+    "info.json": {
+        "Plugin pour la gestion des équipements wifipower": ""
     }
 }
