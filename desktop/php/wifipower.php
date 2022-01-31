@@ -134,7 +134,7 @@ foreach (jeedom::getConfiguration('eqLogic:category') as $key => $value) {
         <div class="form-group">
             <label class="col-sm-3 control-label">{{URL de push}}</label>
             <div class="col-sm-9">
-                <?php echo network::getNetworkAccess('internal') ?>/plugins/wifipower/core/php/jeeWifipower.php?apikey=<?php echo config::byKey('api'); ?>
+                <?php echo network::getNetworkAccess('internal') ?>/plugins/wifipower/core/php/jeeWifipower.php?apikey=<?php echo jeedom::getApiKey($plugin->getId()); ?>
             </div>
         </div>
     </fieldset>
